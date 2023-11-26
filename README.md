@@ -19,7 +19,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/bhubon/php-module-9-assignment
+    git clone https://github.com/bhubon/php-module-9-assignment.git
     ```
 
 2. Navigate to the project directory:
